@@ -10,6 +10,10 @@ In this repository are listed a few of the tools I used, however none of them re
 
 ## Using MIP tools
 
+## MultiProcessing Examples
+
+Since I am running a lot of combinations it is necessary to use the cores the PC has, in order to reduce calculation time.
+
 ## Plot sort-of big data
 
 I am used to have data that is 1~10MB in size, which is about 1E5 rows of plain text. However, with the outputs I had from my analysis, I accumulated 1E7 rows of plain text data, which is about 150MB in size. 
